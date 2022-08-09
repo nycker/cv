@@ -13,17 +13,17 @@ _Software engineer based in Mexico_ <br>
 - SCRUM Master
 - **_Technologies included:_** Azure Devops, AWS, Mapbox,TurfJS
 
-**Full Stack developer**@ [PENSPEN](https://penspen.com/) (2020)_ <br>
+**Full Stack developer**@ [PENSPEN](https://penspen.com/) _(2020)_ <br>
 - Design, configure and deploy project to AWS cloud provider 
 - Develop RESTful services for the business
 - **_Technologies included:_** Insomina, Flask, FastAPI, Python, JSON
 
-**Backend developer**@ [PENSPEN](https://penspen.com/) (2020)_ <br>
+**Backend developer**@ [PENSPEN](https://penspen.com/) _(2020)_ <br>
 - Develop relational database to save results from python modules
 - Design and develop Docker containers running developed python scripts
 - **_Technologies included:_** NGINX, Docker, FastAPI, Flask, Python, NodeJS
 
-**Industrial Software Engineer** @ [PENSPEN](https://penspen.com/) (2019 -2020)_ <br>
+**Industrial Software Engineer** @ [PENSPEN](https://penspen.com/) _(2019 -2020)_ <br>
 - Create a module to create reports baed on engineering modules developed by the company
 - Develop python modules based on VBA files 
 - MVP for company's cloud-based solution
