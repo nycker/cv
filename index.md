@@ -3,7 +3,7 @@ _Software engineer based in Mexico_ <br>
 
 [Email](mailto:hello@example.com) / [LinkedIn](https://www.linkedin.com/in/nycker/) / [GitHub](https://github.com/nycker/) / [Twitter](https://twitter.com/nycker/)
 
-## Engineering Experience
+## 👨‍💻 Engineering Experience
 
 **Software Engineer** @ [PENSPEN](https://penspen.com/) _(2021 - Present)_ <br>
 - Migrating and adapt code from third parties whilst performing integration tests 
